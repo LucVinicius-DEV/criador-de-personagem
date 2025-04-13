@@ -24,7 +24,7 @@ Este projeto é um simulador simples de criação de personagem feito em **Java*
 2. Compile e execute o programa.
 3. Siga as instruções no terminal para criar seu personagem.
 
-## Exemplo de saída
+
 
 ---
 
