@@ -46,4 +46,9 @@ Projeto voltado à criação de personagens com estrutura de dados orientada a o
 
 Desenvolvido por Lucas Vinícius com apoio da Luna, como parte da jornada de aprendizado em Java e Programação Orientada a Objetos.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Vinícius-blue?style=flat&logo=
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Vinícius-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lucas-vin%C3%ADcius-05b41a35b/)  
+[![GitHub](https://img.shields.io/badge/GitHub-LucVinicius--DEV-black?style=flat&logo=github)](https://github.com/LucVinicius-DEV)
+
+---
+
+Se você gostou deste projeto, deixe um ⭐ para apoiar o repositório e acompanhe o progresso pelo [LinkedIn](https://www.linkedin.com/in/lucas-vin%C3%ADcius-05b41a35b/) e pelo [GitHub](https://github.com/LucVinicius-DEV)!
